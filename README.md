@@ -4,7 +4,7 @@ A directory of my apps, websites, and tools.
 
 ## Apps on this PC
 
-These 16 repositories preserve the local source snapshots.
+These 14 repositories preserve the local source snapshots.
 
 | App | Purpose | Repository |
 |---|---|---|
@@ -18,8 +18,6 @@ These 16 repositories preserve the local source snapshots.
 | Studio Se7en | Studio Se7en website source. | [studio-se7en](https://github.com/jinoelnino/studio-se7en) |
 | Subject Media Crawler | Collect images and videos about a subject through a web interface. | [subject-media-crawler](https://github.com/jinoelnino/subject-media-crawler) |
 | Android Phone Backup | Back up accessible Android phone files to a Windows PC. | [android-phone-backup](https://github.com/jinoelnino/android-phone-backup) |
-| NexusWord | Microsoft Word add-in source. | [nexusword](https://github.com/jinoelnino/nexusword) |
-| Body Proportion Editor | Local image-editing extension for AUTOMATIC1111. | [body-proportion-editor](https://github.com/jinoelnino/body-proportion-editor) |
 | Immich Review Scanner | GPU-assisted media review scanner for Immich. | [immich-review-scanner](https://github.com/jinoelnino/immich-review-scanner) |
 | OpenMontage | Open-source video production system; local source snapshot. | [openmontage](https://github.com/jinoelnino/openmontage) |
 | Inbox Zero | Open-source email assistant; local source snapshot. | [inbox-zero](https://github.com/jinoelnino/inbox-zero) |
@@ -44,4 +42,4 @@ App uploads contain source files, documentation, and required small assets. Loca
 
 Projects based on existing open-source software retain their upstream attribution and licenses.
 
-All 16 app repositories are private. Access to private links requires an authorized GitHub account.
+All listed app repositories are private. Access to private links requires an authorized GitHub account.
