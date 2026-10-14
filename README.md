@@ -1,45 +1,39 @@
-# My Projects
+# Jino Jose
 
-A directory of my apps, websites, and tools.
+**AI Infrastructure and Solutions Architecture**  
+Private AI · Enterprise integration · Platform reliability
 
-## Apps on this PC
+I work across infrastructure architecture, platform integration and the delivery of business systems. At Cezen Technologies, my recent work connects local AI, enterprise knowledge, identity, network intelligence and operational workflows.
 
-These 14 repositories preserve the local source snapshots.
+My focus is translating requirements into clear system boundaries, technology choices, acceptance criteria and maintainable operations.
 
-| App | Purpose | Repository |
-|---|---|---|
-| LARK Web Reader | Read and listen to synchronized audiobooks on phones and computers. | [lark-web-reader](https://github.com/jinoelnino/lark-web-reader) |
-| Desktop Reader | Windows audiobook reader with synchronized text and highlighting. | [desktop-audiobook-reader](https://github.com/jinoelnino/desktop-audiobook-reader) |
-| Audiobook Workflow | Align an EPUB with an audiobook to create synchronized reading files. | [audiobook-workflow](https://github.com/jinoelnino/audiobook-workflow) |
-| Artha Finance Control Centre | Local personal finance control centre. | [artha-finance](https://github.com/jinoelnino/artha-finance) |
-| Creative File Hub | Browse creative files for design and photography. | [creative-file-hub](https://github.com/jinoelnino/creative-file-hub) |
-| Design File Explorer | Scan design files and generate an HTML explorer. | [design-file-explorer](https://github.com/jinoelnino/design-file-explorer) |
-| SMC Website | SMC website source. | [smc-website](https://github.com/jinoelnino/smc-website) |
-| Studio Se7en | Studio Se7en website source. | [studio-se7en](https://github.com/jinoelnino/studio-se7en) |
-| Subject Media Crawler | Collect images and videos about a subject through a web interface. | [subject-media-crawler](https://github.com/jinoelnino/subject-media-crawler) |
-| Android Phone Backup | Back up accessible Android phone files to a Windows PC. | [android-phone-backup](https://github.com/jinoelnino/android-phone-backup) |
-| Immich Review Scanner | GPU-assisted media review scanner for Immich. | [immich-review-scanner](https://github.com/jinoelnino/immich-review-scanner) |
-| OpenMontage | Open-source video production system; local source snapshot. | [openmontage](https://github.com/jinoelnino/openmontage) |
-| Inbox Zero | Open-source email assistant; local source snapshot. | [inbox-zero](https://github.com/jinoelnino/inbox-zero) |
-| ebook2audiobook | Open-source ebook-to-audiobook tool; local source snapshot. | [ebook2audiobook](https://github.com/jinoelnino/ebook2audiobook) |
+## Selected architecture case studies
 
-## Other repositories
+| Project | Focus |
+|---|---|
+| [Nexus One AI](https://github.com/jinoelnino/technology-project-portfolio/blob/main/nexus-one-ai.md) | Private AI platform, local inference and enterprise knowledge |
+| [AI governance](https://github.com/jinoelnino/technology-project-portfolio/blob/main/ai-governance.md) | Policy review, evaluation and operational traceability |
+| [Vantage AI](https://github.com/jinoelnino/technology-project-portfolio/blob/main/vantage-ai.md) | Network evidence, operational visibility and read-only AI assistance |
+| [Cosmos](https://github.com/jinoelnino/technology-project-portfolio/blob/main/cosmos-operations.md) | Business workflows and resilient accounting integration |
+| [Tender Intelligence](https://github.com/jinoelnino/technology-project-portfolio/blob/main/tender-intelligence.md) | Opportunity workflows, identity integration and service reliability |
 
-| Repository | Description | Visibility |
-|---|---|---|
-| [bangalore-blueprint](https://github.com/jinoelnino/bangalore-blueprint) | Ideas to make Bangalore work again. Not complaints. Not petitions. A complete, implementable, financially viable system for rebuilding accountability into every broken layer of this city. | Private |
-| [blueprintforindia](https://github.com/jinoelnino/blueprintforindia) | A citizen's blueprint for better Indian cities — started in Bangalore | Public |
-| [cezen-cosmos](https://github.com/jinoelnino/cezen-cosmos) | Project repository | Private |
-| [cezen-protect](https://github.com/jinoelnino/cezen-protect) | Project repository | Private |
-| [cezentech-protect-dashboard](https://github.com/jinoelnino/cezentech-protect-dashboard) | Project repository | Private |
-| [chat-app](https://github.com/jinoelnino/chat-app) | Project repository | Public |
-| [Flatris-LAB](https://github.com/jinoelnino/Flatris-LAB) | Flatris - Updated Repo for easier deploy with Azure DevOps | Public |
-| [nexus-p0-qualification-20260805](https://github.com/jinoelnino/nexus-p0-qualification-20260805) | Disposable Nexus One AI P0 qualification repository | Public |
+**[Explore the complete portfolio](https://github.com/jinoelnino/technology-project-portfolio)** — also includes mobile integration, business automation, service operations, backup, security dashboards and platform handover.
 
-## Source snapshots
+## Architecture interests
 
-App uploads contain source files, documentation, and required small assets. Local credentials, app databases, personal libraries, dependencies, generated builds, and large media/model files are excluded. Install dependencies using each project’s README.
+- Private AI infrastructure, local model serving and knowledge retrieval
+- Enterprise integration, identity and role-aware access
+- Observability, recovery, release readiness and operational ownership
+- Usable platforms that connect technical capabilities to business workflows
 
-Projects based on existing open-source software retain their upstream attribution and licenses.
+## Personal projects
 
-All listed app repositories are private. Access to private links requires an authorized GitHub account.
+I also explore synchronized reading tools, local utilities, creative workflows and civic ideas. [Personal projects and attributed labs](https://github.com/jinoelnino/technology-project-portfolio/blob/main/personal-projects.md) · [Blueprint for India](https://github.com/jinoelnino/blueprintforindia)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jinojo/)
+
+---
+
+Commercial case studies describe my contributions at Cezen Technologies. Proprietary code and confidential operational details are not published. Prototype and pilot scope is stated in each study; upstream platforms retain their original attribution.
